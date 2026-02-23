@@ -67,8 +67,8 @@ export default function About() {
   
   const stats = [
     { value: '1+', label: 'Years Learning' },
-    { value: '15+', label: 'Projects' },
-    { value: '5+', label: 'Certifications' },
+    { value: '6+', label: 'Projects' },
+    { value: '14+', label: 'Certifications' },
   ];
   
   return (
