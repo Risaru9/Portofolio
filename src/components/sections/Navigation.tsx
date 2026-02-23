@@ -58,7 +58,7 @@ export default function Navigation() {
             >
               <div className="relative">
                 <span className="text-2xl font-display font-bold text-white">
-                  AI
+                  R
                 </span>
                 <motion.span
                   className="absolute -top-1 -right-2 w-2 h-2 bg-yellow rounded-full"
