@@ -223,9 +223,9 @@ export default function Hero() {
               className="flex gap-8 mt-12 justify-center lg:justify-start"
             >
               {[
-                { value: '3+', label: 'Years Learning' },
-                { value: '15+', label: 'Projects' },
-                { value: '5+', label: 'Certifications' },
+                { value: '1+', label: 'Years Learning' },
+                { value: '6+', label: 'Projects' },
+                { value: '14+', label: 'Certifications' },
               ].map((stat, i) => (
                 <div key={i} className="text-center">
                   <div className="text-2xl sm:text-3xl font-display font-bold text-yellow">
